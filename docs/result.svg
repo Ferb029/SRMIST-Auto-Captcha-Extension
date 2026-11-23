@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" font-family="Segoe UI, Arial, sans-serif">
+<rect width="900" height="220" rx="12" fill="#f4f5f7"/>
+<text x="30" y="40" font-size="15" fill="#555">Captcha</text>
+<rect x="30" y="56" width="300" height="46" rx="6" fill="#fff" stroke="#16a34a" stroke-width="3"/>
+<rect x="24" y="50" width="312" height="58" rx="9" fill="none" stroke="#16a34a" stroke-opacity=".35" stroke-width="6"/>
+<text x="46" y="86" font-size="20" fill="#222" letter-spacing="2">GtJtKM</text>
+<rect x="360" y="52" width="200" height="54" rx="4" fill="#fff"/>
+<text x="372" y="90" font-size="30" font-weight="bold" fill="#1f5f5b">G</text><text x="396" y="94" font-size="26" font-weight="bold" fill="#3b2a52">t</text>
+<text x="414" y="92" font-size="30" font-weight="bold" fill="#1e2a78">J</text><text x="440" y="96" font-size="26" font-weight="bold" fill="#5a2a2a">t</text>
+<text x="460" y="94" font-size="30" font-weight="bold" fill="#3c4a5a">K</text><text x="490" y="84" font-size="30" font-weight="bold" fill="#3f6a1f">M</text>
+<line x1="362" y1="60" x2="556" y2="98" stroke="#d946ef" stroke-width="1"/><line x1="362" y1="96" x2="556" y2="66" stroke="#22c55e" stroke-width="1"/>
+<rect x="30" y="126" width="530" height="46" rx="6" fill="#2f78b7"/><text x="295" y="155" font-size="17" fill="#fff" text-anchor="middle">Login</text>
+<text x="590" y="74" font-size="14" fill="#16a34a">Filled automatically</text><text x="590" y="94" font-size="14" fill="#16a34a">(green flash)</text>
+<text x="590" y="150" font-size="14" fill="#555">You type NetID + password</text><text x="590" y="170" font-size="14" fill="#555">and click Login yourself</text>
+</svg>
